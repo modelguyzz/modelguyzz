@@ -7,7 +7,7 @@ I joined a few Telegram channels and looked around on the darknet.
 I decided to start a hacking YouTube channel. Ethical, ofc, hehe.
 
 Dm me if you need something💵💳 (theoritically, education purpose only..)
-modelguyzz on discord and #telegram
+modelguyzz on discord and # telegram
 
 
 
