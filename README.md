@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=my+awesome+portfolio)](https://git.io/typing-svg)
+
 # 💫 About Me:
 
 
