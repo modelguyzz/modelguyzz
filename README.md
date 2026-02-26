@@ -4,6 +4,8 @@
   <a href="https://komarev.com/ghpvc/?username=modelguyzz">
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=modelguyzz">
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=modelguyzz">
     <img src="https://komarev.com/ghpvc/?username=modelguyzz&label=Profile%20views&color=00FFFF&style=flat-square" alt="modelguyzz's profile views" />
   </a>
 </p>
