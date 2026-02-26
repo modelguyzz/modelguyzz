@@ -1,7 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=my+awesome+portfolio)](https://git.io/typing-svg)
 
-# 💫 About Me:
+# 💫 About Me
+## 👋 About Me
 
+I started learning programming around 2022–2024 after seeing Punchmade Dev online and getting inspired by the cybercrime scene.
+I joined a few Telegram channels and looked around on the darknet.
+I decided to start a hacking YouTube channel. Ethical, ofc, hehe.
+
+
+Lets hit some cards.
 
 
  <p align="left">
@@ -37,6 +44,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=modelguyzz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
