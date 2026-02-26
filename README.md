@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=my+awesome+portfolio)](https://git.io/typing-svg)
 
 # 💫 About Me
-## 👋 About Me
 
 I started learning programming around 2022–2024 after seeing Punchmade Dev online and getting inspired by the cybercrime scene.
 I joined a few Telegram channels and looked around on the darknet.
 I decided to start a hacking YouTube channel. Ethical, ofc, hehe.
 
+Dm me if you need something💵💳 (theoritically, education purpose only..)
+modelguyzz on discord and #telegram
 
-Lets hit some cards.
 
 
  <p align="left">
