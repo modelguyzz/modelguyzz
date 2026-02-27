@@ -8,7 +8,6 @@ I started learning programming around 2022–2024 after seeing Punchmade Dev onl
 I joined a few Telegram channels and looked around on the darknet.
 I decided to start a hacking YouTube channel. Ethical, ofc, hehe.
 
-Dm me if you need something.
 
  <p align="left">
       <a href="https://www.youtube.com/c/modelguyzz?sub_confirmation=1">
